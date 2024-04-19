@@ -123,6 +123,7 @@ host_packages=(
 
 arch_packages=(
 	fakeroot # for makepkg
+ 	debugedit # for makepkg
 	grub
 	openssh
 )
